@@ -1,0 +1,58 @@
+
+#container{
+
+width: 60%;
+background:#a9c8d6;
+margin:20px auto;
+overflow:auto;
+padding:25px;
+
+
+}
+
+header h1{
+  text-align: center;
+  border-bottom: #fff dashed 1px;
+  font-size: 80px;
+  text-shadow: 2px 2px #34234e;
+  color:#a02914; 
+  
+
+}
+
+header div{
+  text-align: center;
+  border-bottom: #fff dashed 1px;
+  font-size: 50px;
+  text-shadow: 2px 2px #ff0000;
+  
+
+}
+
+footer {
+  text-align: center;
+
+
+}
+
+
+input {
+  cursor: pointer
+
+}
+
+
+#results h3{
+  background :#f06226;
+  padding: 10px;
+  margin:10px;
+
+}
+
+#results span{
+  color:#000;
+  font-weight:bold;
+
+}
+
+
